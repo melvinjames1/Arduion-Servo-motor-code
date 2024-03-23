@@ -3,7 +3,7 @@
 Servo servoMotor;  // Create a servo object
 
 void setup() {
-  servoMotor.attach(12);  // Attach the servo to pin 9
+  servoMotor.attach(12);  // Attach the servo to pin 12
 }
 
 void loop() {
